@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "wv98So/BF2wPwxxq3xj1AWXgrmadFM8PHNkQKQ56qXSPZ9QE/a+96DyWtrbogr+LEdh2wIXxAonYO9E6FnIkXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mirza\\FitnessApp\\webApi\\webApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.5.22302.2\\microsoft.entityframeworkcore.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.5.22302.2\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.5.22302.2\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.0-preview.5.22302.2\\microsoft.entityframeworkcore.inmemory.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.5.22301.12\\microsoft.extensions.caching.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.5.22301.12\\microsoft.extensions.caching.memory.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.5.22301.12\\microsoft.extensions.dependencyinjection.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.5.22301.12\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.5.22301.12\\microsoft.extensions.logging.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.5.22301.12\\microsoft.extensions.logging.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.5.22301.12\\microsoft.extensions.options.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.5.22301.12\\microsoft.extensions.primitives.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\mirza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
